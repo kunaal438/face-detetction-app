@@ -1,0 +1,16 @@
+.div{
+    height: 35px;
+    width: 90%;
+    max-width: 500px;
+}
+
+.btn{
+    border: none;
+    background: rgb(11, 104, 243);
+    color: #fff;
+    cursor: pointer;
+}
+
+.btn:focus{
+    outline: none;
+}
